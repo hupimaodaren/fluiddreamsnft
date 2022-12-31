@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 2000,
   "WEI_COST": 500000000000000000,
   "DISPLAY_COST": 0.5,
-  "GAS_LIMIT": 3000000,
+  "GAS_LIMIT": 600000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/fluiddreams",
   "SHOW_BACKGROUND": true
