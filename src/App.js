@@ -289,7 +289,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Excluding gas fees.
+                  Max mint per anyone is 5.
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
